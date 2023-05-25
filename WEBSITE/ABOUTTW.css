@@ -1,0 +1,16 @@
+.ABOUTTW{
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8.5%;
+}
+#ABOUTTWICE{
+    text-align: center;
+    color: black;
+}
+.ABOUT{
+    background-color: beige;
+    margin-top: 5%;
+    font-size: 20px;
+}
